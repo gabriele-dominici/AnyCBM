@@ -1,5 +1,5 @@
 # AnyCBM: How to Turn Any Black Box into a Concept Bottleneck Model
-Repository of the [AnyCBM paper](https://arxiv.org/pdf/2405.16508)
+Repository of the [AnyCBM paper](https://arxiv.org/pdf/2405.16508) accepted at the XAI World Conference 2024.
 
 ### Model
 You can find the AnyCBM model in `anycbm/models.py`
